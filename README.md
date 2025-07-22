@@ -19,9 +19,9 @@
 
 ---
 
-## 🌐 Connect with me
+<h2 align="left">Connect with me</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/davidrech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
