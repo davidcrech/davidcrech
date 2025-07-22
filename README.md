@@ -19,7 +19,9 @@
 
 ---
 
-<h2 align="left">Connect with me</h2>
+<p>
+  <span style="font-size: 1.5em;">Connect with me</span>
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/davidrech/" target="_blank">
