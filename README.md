@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/davidcrech">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidcrech">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Node.js+%7C+NestJS+%7C+MongoDB;Clean+Code+%7C+Tests+%7C+Docker&center=true&width=440&height=45">
   </a>
 </p>
 
