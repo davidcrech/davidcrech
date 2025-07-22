@@ -9,7 +9,9 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<p align="center">
+  <strong><span style="font-size: 1.5em;">🛠️ Tech Stack & Tools</span></strong>
+</p>
 
 <p align="center">
   <a href="https://nestjs.com/" target="_blank">  
