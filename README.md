@@ -9,9 +9,7 @@
 
 ---
 
-<p align="center">
-  <strong><span style="font-size: 1.5em;">🛠️ Tech Stack & Tools</span></strong>
-</p>
+<h2 align="center">Tech Stack & Tools</h2>
 
 <p align="center">
   <a href="https://nestjs.com/" target="_blank">  
