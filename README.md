@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/davidcrech/" target="_blank">
+  <a href="https://www.linkedin.com/in/davidrech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
