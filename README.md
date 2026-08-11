@@ -1,5 +1,5 @@
-<h2 align="center">Hey, I'm David — I write server-side code</h2>
-<h3 align="center">Backend Developer from Brazil</h3>
+<h2 align="center">Hey, I'm David — I write code</h2>
+<h3 align="center">Developer from Brazil</h3>
 
 <p align="center">
   <a href="https://github.com/davidcrech">
