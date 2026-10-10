@@ -17,14 +17,4 @@
   </a>
 </p>
 
----
-
-<p>
-  <span style="font-size: 1.5em;">Connect with me</span>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/davidrech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
 </p>
